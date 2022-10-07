@@ -1,2 +1,2 @@
-# nidoca-replacer-configs
+# nidoca-replacer-projects
 configurations for nidoca replacer tool
