@@ -1,0 +1,9 @@
+{
+  "sourceType": "zipurl",
+  "source": "https://github.com/dancier/android-dancer/archive/refs/heads/main.zip",
+  "targetType": "directory",
+  "target": "C:/temp",
+  "ignoreFolders": [".git", ".github", ".gradle", ".idea"],
+  "moveFolders": [{ "from": "net/dancier", "to": "de/nidoca" }],
+  "replaces": [{ "oldValue": "net.dancier", "newValue": "de.nidoca" }]
+}
