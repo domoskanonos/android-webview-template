@@ -3,7 +3,7 @@
     "sourceType": "zipurl",
     "source": "https://github.com/dancier/android-dancer/archive/refs/heads/main.zip",
     "targetType": "directory",
-    "target": "/app/project_tmp",
+    "target": "C:/project_tmp",
     "ignoreFolders": [
       ".git",
       ".github",
@@ -28,7 +28,7 @@
     "sourceType": "zipurl",
     "source": "https://github.com/koshisinthehouse/nidoca-replacer-projects/raw/main/taxlancer.de/source/source.zip",
     "targetType": "directory",
-    "target": "/app/project_tmp",
+    "target": "C:/project_tmp",
     "ignoreFolders": [],
     "moveFolders": [],
     "replaces": []
