@@ -4,6 +4,6 @@
   "targetType": "directory",
   "target": "/app/project_tmp",
   "ignoreFolders": [".git", ".github", ".gradle", ".idea"],
-  "moveFolders": [{ "from": "net/dancier", "to": "de/nidoca" }],
-  "replaces": [{ "oldValue": "net.dancier", "newValue": "de.nidoca" }]
+  "moveFolders": [{ "from": "net/dancier", "to": "de/digitalu" }],
+  "replaces": [{ "oldValue": "net.dancier", "newValue": "de.digitalu" }]
 }
