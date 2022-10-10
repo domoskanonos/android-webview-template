@@ -1,0 +1,25 @@
+{
+  "sourceType": "zipurl",
+  "source": "https://github.com/dancier/android-dancer/archive/refs/heads/main.zip",
+  "targetType": "directory",
+  "target": "/app/project_tmp",
+  "ignoreFolders": [
+    ".git",
+    ".github",
+    ".gradle",
+    ".idea"
+  ],
+  "moveFolders": [
+    {
+      "from": "net/dancier",
+      "to": "de/digitalu"
+    }
+  ],
+  "replaces": [
+    {
+      "oldValue": "net.dancier",
+      "newValue": "de.digitalu.taxlancer",
+      "https://test.dancier.net/": "https://www.taxlancer.de/"
+    }
+  ]
+}
