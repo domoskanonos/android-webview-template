@@ -4,6 +4,7 @@
     "source": "https://github.com/dancier/android-dancer/archive/refs/heads/main.zip",
     "targetType": "directory",
     "target": "C:/temp",
+    "removeTarget": true,
     "ignoreFolders": [
       ".git",
       ".github",
@@ -29,6 +30,7 @@
     "source": "https://github.com/koshisinthehouse/nidoca-replacer-projects/raw/main/taxlancer.de/source/source.zip",
     "targetType": "directory",
     "target": "C:/temp",
+    "removeTarget": false,
     "ignoreFolders": [],
     "moveFolders": [],
     "replaces": []
