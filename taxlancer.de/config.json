@@ -27,7 +27,7 @@
   },
   {
     "sourceType": "zipurl",
-    "source": "https://github.com/koshisinthehouse/nidoca-replacer-projects/raw/main/taxlancer.de/source/source.zip",
+    "source": "https://github.com/koshisinthehouse/nidoca-replacer-projects/raw/main/taxlancer.de/source.zip",
     "targetType": "directory",
     "target": "C:/temp",
     "removeTarget": false,
