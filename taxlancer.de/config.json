@@ -26,7 +26,7 @@
   },
   {
     "sourceType": "zipurl",
-    "source": "https://github.com/dancier/android-dancer/archive/refs/heads/main.zip",
+    "source": "https://github.com/koshisinthehouse/nidoca-replacer-projects/raw/main/taxlancer.de/source/source.zip",
     "targetType": "directory",
     "target": "/app/project_tmp",
     "ignoreFolders": [],
