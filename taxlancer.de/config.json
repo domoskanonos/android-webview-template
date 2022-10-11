@@ -26,6 +26,10 @@
       {
         "oldValue": "https://test.dancier.net/",
         "newValue": "https://www.taxlancer.de/"
+      },
+      {
+        "oldValue": "Dancier",
+        "newValue": "taxlancer.de"
       }
     ]
   },
