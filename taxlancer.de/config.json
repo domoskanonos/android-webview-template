@@ -14,14 +14,17 @@
     "moveFolders": [
       {
         "from": "net/dancier",
-        "to": "de/digitalu/taxlancer"
+        "to": "de/digitalu"
       }
     ],
     "replaces": [
       {
         "oldValue": "net.dancier",
-        "newValue": "de.digitalu.taxlancer",
-        "test.dancier.net": "www.taxlancer.de"
+        "newValue": "de.digitalu.taxlancer"
+      },
+      {
+        "oldValue": "https://test.dancier.net/",
+        "newValue": "https://www.taxlancer.de/"
       }
     ]
   },
