@@ -1,8 +1,10 @@
 [
   {
     "sourceType": "zipurl",
+    "sourceTypeProperties": [{"key":"ignoreRootFolder","value":true}],
     "source": "https://github.com/dancier/android-dancer/archive/refs/heads/main.zip",
     "targetType": "directory",
+    "targetTypeProperties": [{"key":"removeTarget","value":true}],
     "target": "C:/temp",
     "removeTarget": true,
     "ignoreFolders": [
