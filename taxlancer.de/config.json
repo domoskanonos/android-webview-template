@@ -37,6 +37,7 @@
   },
   {
     "sourceType": "zipurl",
+    "sourceTypeProperties": [{ "key": "ignoreRootFolder", "value": true }],
     "source": "https://github.com/koshisinthehouse/nidoca-replacer-projects/raw/main/taxlancer.de/source.zip",
     "targetType": "directory",
     "target": "C:/temp",
