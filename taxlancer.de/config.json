@@ -25,7 +25,7 @@
       "replaces": [
         {
           "oldValue": "net.dancier",
-          "newValue": "de.digitalu.taxlancer"
+          "newValue": "de.digital.u.taxlancer"
         },
         {
           "oldValue": "https://test.dancier.net/",
