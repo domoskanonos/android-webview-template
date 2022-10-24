@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'de.digital.u.taxlancer.webview'
+    namespace 'de.digitalu.webview'
     compileSdk 32
 
     def commitCountOut = new StringBuilder(), commitCountError = new StringBuilder()
@@ -25,7 +25,7 @@ android {
     println "build new version, name: ${vName}"
 
     defaultConfig {
-        applicationId "de.digital.u.taxlancer.webview"
+        applicationId "de.digitalu.webview"
         minSdk 21
         targetSdk 32
         versionCode code

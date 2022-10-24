@@ -1,4 +1,4 @@
-package de.digital.u.taxlancer.webview;
+package de.digitalu.webview;
 
 import android.annotation.SuppressLint;
 
@@ -13,7 +13,7 @@ import android.view.WindowInsets;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 
-import de.digital.u.taxlancer.webview.databinding.ActivityFullscreenBinding;
+import de.digitalu.webview.databinding.ActivityFullscreenBinding;
 
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.
@@ -33,7 +33,7 @@ public class WebViewActivity extends AppCompatActivity {
             actionBar.hide();
         }
 
-        de.digital.u.taxlancer.webview.databinding.ActivityFullscreenBinding binding = ActivityFullscreenBinding.inflate(getLayoutInflater());
+        de.digitalu.webview.databinding.ActivityFullscreenBinding binding = ActivityFullscreenBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
         webView = binding.webView;
 

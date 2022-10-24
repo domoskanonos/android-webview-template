@@ -1,4 +1,4 @@
-package de.digital.u.taxlancer.webview;
+package de.digitalu.webview;
 
 import android.app.Activity;
 import android.content.Intent;
