@@ -7,4 +7,7 @@ https://koshisinthehouse.github.io/nidoca-replacer-projects
 https://koshisinthehouse.github.io/nidoca-replacer-projects/config.json
 
 
-https://stackoverflow.com/questions/3997748/how-can-i-create-a-keystore
+
+
+keytool -genkey -v -keystore release-key.jks -alias <alias> -keypass <keypass> -storepass <storepass> -keyalg RSA -keysize 2048 -validity 10000
+
