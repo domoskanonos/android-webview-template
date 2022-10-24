@@ -1,4 +1,4 @@
-# android-dancer
+# android webview template
 
 android webview wrapper for https://github.com/koshisinthehouse/android-webview-template homepage
 
