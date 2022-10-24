@@ -99,10 +99,10 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/runne
 	android:allowBackup
 		ADDED from /home/runner/work/android-webview-template/android-webview-template/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /home/runner/work/android-webview-template/android-webview-template/app/src/main/AndroidManifest.xml:14:9-50
+		ADDED from /home/runner/work/android-webview-template/android-webview-template/app/src/main/AndroidManifest.xml:14:9-54
 	android:dataExtractionRules
 		ADDED from /home/runner/work/android-webview-template/android-webview-template/app/src/main/AndroidManifest.xml:9:9-65
-activity#de.digitalu.webview.WebViewActivity
+activity#de.koshisinthehouse.webview.WebViewActivity
 ADDED from /home/runner/work/android-webview-template/android-webview-template/app/src/main/AndroidManifest.xml:16:9-27:20
 	android:label
 		ADDED from /home/runner/work/android-webview-template/android-webview-template/app/src/main/AndroidManifest.xml:20:13-45
@@ -111,7 +111,7 @@ ADDED from /home/runner/work/android-webview-template/android-webview-template/a
 	android:configChanges
 		ADDED from /home/runner/work/android-webview-template/android-webview-template/app/src/main/AndroidManifest.xml:18:13-74
 	android:theme
-		ADDED from /home/runner/work/android-webview-template/android-webview-template/app/src/main/AndroidManifest.xml:21:13-65
+		ADDED from /home/runner/work/android-webview-template/android-webview-template/app/src/main/AndroidManifest.xml:21:13-69
 	android:name
 		ADDED from /home/runner/work/android-webview-template/android-webview-template/app/src/main/AndroidManifest.xml:17:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
