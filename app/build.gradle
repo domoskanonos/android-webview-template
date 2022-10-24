@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'de.digitalu.webview'
+    namespace 'de.koshisinthehouse.webview'
     compileSdk 32
 
     def commitCountOut = new StringBuilder(), commitCountError = new StringBuilder()
@@ -25,7 +25,7 @@ android {
     println "build new version, name: ${vName}"
 
     defaultConfig {
-        applicationId "de.digitalu.webview"
+        applicationId "de.koshisinthehouse.webview"
         minSdk 21
         targetSdk 32
         versionCode code

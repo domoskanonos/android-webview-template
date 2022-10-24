@@ -1,4 +1,4 @@
-package de.digitalu.webview;
+package de.koshisinthehouse.webview;
 
 import org.junit.Test;
 

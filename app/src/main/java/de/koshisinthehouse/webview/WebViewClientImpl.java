@@ -1,4 +1,4 @@
-package de.digitalu.webview;
+package de.koshisinthehouse.webview;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -8,7 +8,7 @@ import android.webkit.WebViewClient;
 
 public class WebViewClientImpl extends WebViewClient {
 
-    public static final String DOMAIN = "https://www.taxlancer.de/";
+    public static final String DOMAIN = "https://github.com/koshisinthehouse/android-webview-template";
 
     private Activity activity;
 

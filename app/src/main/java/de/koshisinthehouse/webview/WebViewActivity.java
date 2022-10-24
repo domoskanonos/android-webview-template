@@ -1,4 +1,4 @@
-package de.digitalu.webview;
+package de.koshisinthehouse.webview;
 
 import android.annotation.SuppressLint;
 
@@ -13,7 +13,7 @@ import android.view.WindowInsets;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 
-import de.digitalu.webview.databinding.ActivityFullscreenBinding;
+import de.koshisinthehouse.webview.databinding.ActivityFullscreenBinding;
 
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.
@@ -33,7 +33,7 @@ public class WebViewActivity extends AppCompatActivity {
             actionBar.hide();
         }
 
-        de.digitalu.webview.databinding.ActivityFullscreenBinding binding = ActivityFullscreenBinding.inflate(getLayoutInflater());
+        de.koshisinthehouse.webview.databinding.ActivityFullscreenBinding binding = ActivityFullscreenBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
         webView = binding.webView;
 
