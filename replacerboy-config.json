@@ -40,7 +40,7 @@
       "clazz": "DeleteItemTransformPipeItem",
       "config": 
         {
-          "files": ["release-key.jks"],
+          "files": ["replacerboy-config.json","release-key.jks"],
           "folders": [".idea", ".gradle"]
         }
     },
