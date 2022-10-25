@@ -14,15 +14,15 @@
         "replaces": [
           {
             "oldValue": "de.koshisinthehouse",
-            "newValue": "de.koshisinthehouse"
+            "newValue": ""
           },
           {
             "oldValue": "koshisinthehouse",
-            "newValue": "koshisinthehouse"
+            "newValue": ""
           },
           {
             "oldValue": "https://github.com/koshisinthehouse/android-webview-template",
-            "newValue": "https://github.com/koshisinthehouse/android-webview-template"
+            "newValue": ""
           }
         ]
       }
@@ -32,7 +32,7 @@
       "config": [
         {
           "from": "de/koshisinthehouse",
-          "to": "de/koshisinthehouse"
+          "to": ""
         }
       ]
     },
