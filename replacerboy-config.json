@@ -1,2 +1,55 @@
 {
+  "items": [
+    {
+      "clazz": "InputZipurlPipeItem",
+      "config": {
+        "zipurl": "https://github.com/koshisinthehouse/android-webview-template/archive/refs/heads/main.zip",
+        "ignoreRootFolder": true
+      }
+    },
+    {
+      "clazz": "RegexTransformPipeItem",
+      "config": {
+        "excludes": ["(jar|png|jks)"],
+        "replaces": [
+          {
+            "oldValue": "de.koshisinthehouse",
+            "newValue": "de.koshisinthehouse"
+          },
+          {
+            "oldValue": "koshisinthehouse",
+            "newValue": "koshisinthehouse"
+          },
+          {
+            "oldValue": "https://github.com/koshisinthehouse/android-webview-template",
+            "newValue": "https://github.com/koshisinthehouse/android-webview-template"
+          }
+        ]
+      }
+    },
+    {
+      "clazz": "MoveFolderTransformPipeItem",
+      "config": [
+        {
+          "from": "de/koshisinthehouse",
+          "to": "de/koshisinthehouse"
+        }
+      ]
+    },
+    {
+      "clazz": "DeleteItemTransformPipeItem",
+      "config": 
+        {
+          "files": ["release-key.jks"],
+          "folders": [".idea", ".gradle"]
+        }
+    },
+    {
+      "clazz": "ShellPipeItem",
+      "config":
+        {
+          "cmd": "gradlew assembleDebug"
+        }
+    }
+  ]
 }
