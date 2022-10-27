@@ -5,7 +5,7 @@ INJECTED from /home/runner/work/android-webview-template/android-webview-templat
 INJECTED from /home/runner/work/android-webview-template/android-webview-template/app/src/main/AndroidManifest.xml:2:1-29:12
 INJECTED from /home/runner/work/android-webview-template/android-webview-template/app/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [androidx.databinding:viewbinding:7.3.0] /home/runner/.gradle/caches/transforms-3/148010573bd59878e8bacad5a530b55b/transformed/viewbinding-7.3.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.material:material:1.6.1] /home/runner/.gradle/caches/transforms-3/1657eaacfdf73cb5b94d8778151083b3/transformed/material-1.6.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.material:material:1.7.0] /home/runner/.gradle/caches/transforms-3/d570501ed8422ac3c5d39480119bfc6a/transformed/material-1.7.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /home/runner/.gradle/caches/transforms-3/0758de52a88bd0e13e04f350fcb3ffe3/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/runner/.gradle/caches/transforms-3/ae758e6ac4a5cf15b9df2ab73fde877a/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.5.1] /home/runner/.gradle/caches/transforms-3/3237c50a3caa87d96377052b95ee4677/transformed/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
@@ -70,8 +70,8 @@ ADDED from /home/runner/work/android-webview-template/android-webview-template/a
 		ADDED from /home/runner/work/android-webview-template/android-webview-template/app/src/main/AndroidManifest.xml:5:22-64
 application
 ADDED from /home/runner/work/android-webview-template/android-webview-template/app/src/main/AndroidManifest.xml:7:5-27:19
-MERGED from [com.google.android.material:material:1.6.1] /home/runner/.gradle/caches/transforms-3/1657eaacfdf73cb5b94d8778151083b3/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.material:material:1.6.1] /home/runner/.gradle/caches/transforms-3/1657eaacfdf73cb5b94d8778151083b3/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0] /home/runner/.gradle/caches/transforms-3/d570501ed8422ac3c5d39480119bfc6a/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0] /home/runner/.gradle/caches/transforms-3/d570501ed8422ac3c5d39480119bfc6a/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/runner/.gradle/caches/transforms-3/ae758e6ac4a5cf15b9df2ab73fde877a/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/runner/.gradle/caches/transforms-3/ae758e6ac4a5cf15b9df2ab73fde877a/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
 MERGED from [androidx.emoji2:emoji2:1.2.0] /home/runner/.gradle/caches/transforms-3/ec6e2ba61c9a42dd8e0aa44ee71f9dfb/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
@@ -128,8 +128,8 @@ INJECTED from /home/runner/work/android-webview-template/android-webview-templat
 INJECTED from /home/runner/work/android-webview-template/android-webview-template/app/src/main/AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.3.0] /home/runner/.gradle/caches/transforms-3/148010573bd59878e8bacad5a530b55b/transformed/viewbinding-7.3.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.databinding:viewbinding:7.3.0] /home/runner/.gradle/caches/transforms-3/148010573bd59878e8bacad5a530b55b/transformed/viewbinding-7.3.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.material:material:1.6.1] /home/runner/.gradle/caches/transforms-3/1657eaacfdf73cb5b94d8778151083b3/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.material:material:1.6.1] /home/runner/.gradle/caches/transforms-3/1657eaacfdf73cb5b94d8778151083b3/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] /home/runner/.gradle/caches/transforms-3/d570501ed8422ac3c5d39480119bfc6a/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] /home/runner/.gradle/caches/transforms-3/d570501ed8422ac3c5d39480119bfc6a/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /home/runner/.gradle/caches/transforms-3/0758de52a88bd0e13e04f350fcb3ffe3/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /home/runner/.gradle/caches/transforms-3/0758de52a88bd0e13e04f350fcb3ffe3/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/runner/.gradle/caches/transforms-3/ae758e6ac4a5cf15b9df2ab73fde877a/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41

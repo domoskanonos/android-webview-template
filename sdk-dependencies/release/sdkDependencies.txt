@@ -549,10 +549,10 @@ library {
   maven_library {
     groupId: "com.google.android.material"
     artifactId: "material"
-    version: "1.6.1"
+    version: "1.7.0"
   }
   digests {
-    sha256: "\202\306_Q0\252\253\303\252\002\314x\377}u\362a\354\341\236i\270\376\306\340wqr\363\346\311\215"
+    sha256: "V\327\245L\370\303\017]-5\020\"[\364\210A\360\316o\277\211aT\373\337\356+\253\312m\224S"
   }
   repo_index {
   }
