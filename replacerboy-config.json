@@ -37,10 +37,55 @@
       ]
     },
     {
+      "clazz": "InputDownloadFilePipeItem",
+      "config": {
+        "url": "https://github.com/DortmundDigital/android-webview/raw/main/taxlancer/logo.png",
+        "target": "logo.png"
+      }
+    },
+    {
+      "clazz": "ImgTransformPipeItem",
+      "config": {
+        "source": "logo.png",
+        "imgs": [
+          {
+            "width": 72,
+            "heigth": null,
+            "type": "png",
+            "path": "app/src/main/res/mipmap-hdpi/ic_launcher.png"
+          },
+          {
+            "width": 48,
+            "heigth": null,
+            "type": "png",
+            "path": "app/src/main/res/mipmap-mdpi/ic_launcher.png"
+          },
+          {
+            "width": 96,
+            "heigth": null,
+            "type": "png",
+            "path": "app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+          },
+          {
+            "width": 144,
+            "heigth": null,
+            "type": "png",
+            "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+          },
+          {
+            "width": 192,
+            "heigth": null,
+            "type": "png",
+            "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+          }
+        ]
+      }
+    },
+    {
       "clazz": "DeleteItemTransformPipeItem",
       "config": 
         {
-          "files": ["replacerboy-config.json","release-key.jks"],
+          "files": ["logo.png","replacerboy-config.json","release-key.jks"],
           "folders": [".idea", ".gradle"]
         }
     },
