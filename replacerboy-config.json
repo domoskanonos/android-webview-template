@@ -39,7 +39,7 @@
     {
       "clazz": "InputDownloadFilePipeItem",
       "config": {
-        "url": "https://github.com/DortmundDigital/android-webview/raw/main/taxlancer/logo.png",
+        "url": "",
         "target": "logo.png"
       }
     },
