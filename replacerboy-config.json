@@ -44,7 +44,7 @@
       }
     },
     {
-      "clazz": "ImgTransformPipeItem",
+      "clazz": "ImgResizeTransformPipeItem",
       "config": {
         "source": "logo.png",
         "imgs": [
